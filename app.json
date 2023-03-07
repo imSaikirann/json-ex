@@ -1,0 +1,10 @@
+{
+    "app":[
+    {
+        "jfile":"f.json"
+    },
+    {
+        "jfile":"sec.json"
+    }
+    ]
+}
